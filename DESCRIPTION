@@ -1,0 +1,16 @@
+Package: GastricMicrobiomeTools
+Title: Starter Tools for Exploratory 16S Microbiome Analysis
+Version: 0.0.1
+Authors@R: person("Emile", "Yonli", email = "emiledxpe@gmail.com",
+    role = c("aut", "cre"))
+Description: A starter collection of base R functions for validating
+    microbiome count tables, calculating relative abundance and alpha
+    diversity, and summarising taxonomic counts. Developed as an
+    educational mentorship project.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

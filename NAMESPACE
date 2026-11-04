@@ -1,0 +1,4 @@
+export(alpha_diversity)
+export(relative_abundance)
+export(taxonomic_summary)
+export(validate_count_table)
